@@ -90,7 +90,7 @@ img#vest
 
 div.coul
 {
-	margin-left: 850px;
+	margin-left: 550px;
 	position: absolute;
 	top:300px;
 }
@@ -104,9 +104,9 @@ img#robe
 }
 
 div.robee{
-	margin-left: 70px;
+	margin-left: 450px;
 	position: absolute;
-	top:590px;
+	top:650px;
 }
 
 img#tenu{
@@ -117,9 +117,9 @@ img#tenu{
 }   
 
 div.tenue{
-	margin-left: 850px;
+	margin-left: 600px;
 	position: absolute;
-	top:880px;
+	top:910px;
 
 }
 
@@ -131,9 +131,9 @@ img#roobee{
 }
 
 div.robu{
-	margin-left: 70px;
+	margin-left: 450px;
 	position: absolute;
-	top: 1200px;
+	top: 1250px;
 }
 
 img#Kerekou
@@ -145,7 +145,7 @@ img#Kerekou
 }
 
 div.ker{
-	margin-left: 850px;
+	margin-left: 750px;
 	position: absolute;
 	top: 1700px;
 }
@@ -159,9 +159,9 @@ img#Rda
 }
 
 div.Chawya{
-	margin-left: 150px;
+	margin-left: 450px;
 	position: absolute;
-	top: 2050px;
+	top: 2150px;
 }
 
 img#Robe{
@@ -176,9 +176,9 @@ img#Robe{
 div.Robe
 {
 
-	margin-left: 850px;
+	margin-left: 750px;
 	position: absolute;
-	top: 2550px;
+	top: 2650px;
 
 }
 
@@ -194,7 +194,7 @@ img#Robe1
 div.Robe1
 {
 
-	margin-left: 150px;
+	margin-left: 450px;
 	position: absolute;
 	top: 2990px;
 
